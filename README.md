@@ -12,9 +12,9 @@ This project implements a Predictive Maintenance system using Machine Learning t
 ##Dataset
 The project uses historical machine data, including sensor readings and failure history, to train the machine learning models. 
 The dataset includes:
-Sensor Readings: Temperature, pressure, humidity, etc.
-Maintenance Logs: History of maintenance events.
-Failure Events: Data related to past machine failures.
+-Sensor Readings: Temperature, pressure, humidity, etc.
+-Maintenance Logs: History of maintenance events.
+-Failure Events: Data related to past machine failures.
 Note: The dataset used in this project can be replaced with real-time sensor data for live predictions.
 
 ##Machine Learning Model
